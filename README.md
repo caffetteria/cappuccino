@@ -1,2 +1,3 @@
 # cappuccino
-Repository guida per la massimizzazione dell'utilizzo degli IDE
+
+Guida all'uso dei principali IDE.
